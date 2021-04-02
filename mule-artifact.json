@@ -1,0 +1,8 @@
+{
+  "minMuleVersion": "4.3.0",
+  "secureProperties": [ 
+  	"anypoint.platform.client_secret",
+  	"cps.clientSecret",
+  	"splunk.aws.firehose.secretKey"
+ ]
+}
